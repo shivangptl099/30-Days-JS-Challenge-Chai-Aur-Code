@@ -1,4 +1,4 @@
-let marks = 39
+let marks = 60
 switch (true) {
     case (marks >= 90): console.log("Grade A"); break;
     case (marks >= 80): console.log("Grade B"); break;
