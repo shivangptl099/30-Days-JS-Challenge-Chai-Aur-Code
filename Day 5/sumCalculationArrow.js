@@ -1,0 +1,1 @@
+const sumCalculationArrow = (a, b) => a + b;
